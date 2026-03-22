@@ -14,7 +14,6 @@ SchemeMatch AI is an AI-powered government scheme discovery and application assi
 6. **Explainability**: Transparent reasoning for all eligibility decisions
 
 ### Technology Stack
-
 - **Frontend**: Streamlit (Python 3.11+)
 - **AI/ML**: AWS Bedrock (Claude Sonnet 4), AWS Kiro, AWS Textract
 - **Vector Database**: Pinecone (free tier - 100K vectors)
